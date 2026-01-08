@@ -1,4 +1,6 @@
  📱 **Análisis de comportamiento de usuarios en app de alimentos** – TripleTen Bootcamp | 2025
+
+ 
 Descripción: Este proyecto analiza el comportamiento de los usuarios dentro de una aplicación móvil de una empresa emergente de productos alimenticios. Se estudia el embudo de conversión y los resultados de un experimento A/A/B para evaluar el impacto de un rediseño tipográfico en la experiencia del usuario.
 
 
